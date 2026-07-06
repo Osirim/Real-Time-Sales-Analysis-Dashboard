@@ -173,13 +173,13 @@ Displays:
 
 ## Executive Overview
 
-![Executive Dashboard](Images/executive-dashboard.png)
+![Executive Dashboard](screenshot/executive_overview.png)
 
 ---
 
 ## Product Analysis
 
-![Product Dashboard](Images/product-dashboard.png)
+![Product Dashboard](Images/product_overview.png)
 
 ---
 
