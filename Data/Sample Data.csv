@@ -1,0 +1,6 @@
+order_id,order_date,customer_name,segment,region,city,category,sub_category,product_name,quantity,sales,profit
+ORD-969098,5/24/2026 3:24,David Smith,Consumer,South,Abuja,Technology,Laptops,HP ElitBook,3,508943,64962
+ORD-68713,5/24/2026 3:24,Michael Brown,Home Office,East,Portharcourt,Technology,Laptops,HP ElitBook,4,868673,87889
+ORD-566385,5/24/2026 3:24,Michael Brown,Home Office,North,Abuja,Technology,Laptops,HP ElitBook,5,763567,92405
+ORD-856729,5/24/2026 3:24,Mary Johnson,Consumer,North,Portharcourt,Office Supplies,Paper,A4 Printing Paper,5,3248,1554
+ORD-633456,5/24/2026 3:24,David Smith,Corporate,West,Portharcourt,Technology,Laptops,HP ElitBook,5,734076,125657
