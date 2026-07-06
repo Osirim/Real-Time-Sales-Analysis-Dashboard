@@ -173,7 +173,7 @@ Displays:
 
 ## Executive Overview
 
-![Executive Dashboard](screenshot/executive_overview.png)
+![Executive Dashboard](screenshot/executive_overview.PNG)
 
 ---
 
