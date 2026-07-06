@@ -213,27 +213,8 @@ Cleaning activities included:
 
 ---
 
-# ⭐ Data Model
-
-A **Star Schema** was implemented.
-
-```text
-                 Date
-                  │
-                  │
-Customer ─── Sales ─── Product
-                  │
-                  │
-             Geography
-```
-
-Dimension Tables
-
-- Customer
-- Product
-- Geography
-- Date
-
+# ⭐ Data
+Sales Data
 ---
 
 # 📐 DAX Measures
